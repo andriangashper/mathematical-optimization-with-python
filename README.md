@@ -1,2 +1,3 @@
-# mathematical-optimization-with-python
-This repo contains files with examples on how to implement optimization in python.
+# Mathematical Optimization with Python
+
+This repository contains notebook files with examples on how to solve LP and NLP optimization problems using Python.
